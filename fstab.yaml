@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p150902-e1557405.adobeaemcloud.com/bin/franklin.delivery/iain-mag/training-test/main"
+    url: "https://author-p162612-e1741200.adobeaemcloud.com/bin/franklin.delivery/iain-mag/training-test/main"
     type: "markup"
     suffix: ".html"
